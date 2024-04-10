@@ -1,0 +1,158 @@
+body{
+margin:0px;
+background-color: #fff;
+}
+.page{
+margin:0px;
+padding:0px;
+}
+.block1{
+width:250px;
+}
+.block2{
+width:15%;
+}
+
+
+.header{
+margin:0px;
+padding:0px;
+background-color: #f8f3f0;
+width:100%;
+position: sticky;
+top:0px;
+}
+.container{
+display: flex;
+align-items: center;
+padding-top:10px;
+padding-bottom:0px;
+justify-content:space-around;
+}
+.logo-text{
+font-size: 40px;
+ font-family: "Shantell Sans", cursive;
+ color: #cd5c5c;
+ padding:0px;
+ margin-bottom:0px;
+}
+.contact{
+font-family: "Balsamiq Sans", sans-serif;
+font-weight:300;
+font-size: 14px;
+color: #cd5c5c;
+}
+.order{
+text-align: center;
+}
+
+.nav{
+text-align: center;
+padding-top: 0px;
+padding-bottom: 10px;
+}
+.nav-item{
+padding-right:40px;
+padding-bottom: 0px;
+text-decoration:none;
+font-size: 13px;
+color: #000;
+font-family: "Balsamiq Sans", sans-serif;
+font-weight: 300;
+font-style: normal;
+}
+
+
+
+h1{
+font-family:
+font-family: "Balsamiq Sans", sans-serif;
+color: #cd5c5c;
+}
+
+.main-content{
+margin-top:50px;
+}
+
+
+.main-article{
+display: flex;
+align-items: center;
+justify-content:space-around;
+margin-top:0px;
+padding-top: 0px;
+padding-bottom: 40px;
+}
+
+.article-img{
+padding: 5px;
+}
+.article-text h2{
+font-family: "Balsamiq Sans", sans-serif;
+text-align: center;
+padding: 0px;
+margin:0px;
+color: #cd5c5c;
+}
+.article-text{
+padding-left: 10px;
+width:60%;
+text-align: justify;
+line-height: 1.5;
+font-family: "Commissioner", sans-serif;
+font-size: 15px;
+color: #000;
+}
+h1{
+text-align: center;
+}
+
+
+
+.article{
+justify-content:space-around;
+padding-left:15%;
+padding-right:15%;
+margin-top: 70px;
+}
+.article-wide-text{
+line-height: 1.5;
+font-family: "Commissioner", sans-serif;
+font-size: 16px;
+}
+.article-img-small{
+padding-right: 10px;
+}
+
+.certs{
+    text-align:center;
+}
+
+.footer{
+display:flex;
+justify-content:space-around;
+}
+
+.more-info{
+ font-family: "Shantell Sans", cursive;
+ font-size:15px;
+ color: #cd5c5c;
+}
+.contact2{
+font-family: "Balsamiq Sans", sans-serif;
+font-weight:300;
+font-size: 20px;
+color: #cd5c5c;
+}
+.end-img{
+padding-left:10px;
+}
+.year-info{
+font-size:12px;
+}
+.tech{
+width:80%;
+}
+.tech-img{
+
+}
