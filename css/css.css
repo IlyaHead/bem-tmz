@@ -2,157 +2,189 @@ body{
 margin:0px;
 background-color: #fff;
 }
-.page{
-margin:0px;
-padding:0px;
-}
-.block1{
-width:250px;
-}
-.block2{
-width:15%;
-}
-
-
-.header{
-margin:0px;
-padding:0px;
-background-color: #f8f3f0;
-width:100%;
-position: sticky;
-top:0px;
-}
 .container{
-display: flex;
-align-items: center;
-padding-top:10px;
-padding-bottom:0px;
+margin:0px 120px;
+margin-bottom:20px;
+}
+.header{
+display:flex;
 justify-content:space-around;
+items-align:center;
 }
 .logo-text{
-font-size: 40px;
- font-family: "Shantell Sans", cursive;
+padding-top:20px;
+}
+h1{
  color: #cd5c5c;
- padding:0px;
- margin-bottom:0px;
 }
 .contact{
-font-family: "Balsamiq Sans", sans-serif;
-font-weight:300;
-font-size: 14px;
-color: #cd5c5c;
+padding-top:38px;
 }
-.order{
-text-align: center;
+nav{
+padding:0px 130px;
+margin:0px;
 }
-
-.nav{
-text-align: center;
-padding-top: 0px;
-padding-bottom: 10px;
+nav ul{
+display:flex;
+justify-content:space-between;
+list-style-type:none;
+padding:0px;
+margin:0px;
 }
 .nav-item{
-padding-right:40px;
-padding-bottom: 0px;
 text-decoration:none;
-font-size: 13px;
-color: #000;
-font-family: "Balsamiq Sans", sans-serif;
-font-weight: 300;
-font-style: normal;
-}
+font-size: 30px;
+font-weight:600;
 
-
-
-h1{
-font-family:
-font-family: "Balsamiq Sans", sans-serif;
-color: #cd5c5c;
-}
-
-.main-content{
-margin-top:50px;
-}
-
-
-.main-article{
-display: flex;
-align-items: center;
-justify-content:space-around;
-margin-top:0px;
-padding-top: 0px;
-padding-bottom: 40px;
-}
-
-.article-img{
-padding: 5px;
-}
-.article-text h2{
-font-family: "Balsamiq Sans", sans-serif;
-text-align: center;
-padding: 0px;
+padding:0px;
 margin:0px;
-color: #cd5c5c;
-}
-.article-text{
-padding-left: 10px;
-width:60%;
-text-align: justify;
-line-height: 1.5;
-font-family: "Commissioner", sans-serif;
-font-size: 15px;
 color: #000;
 }
-h1{
-text-align: center;
+
+.active{
+text-decoration:underline;
 }
 
-
-
-.article{
-justify-content:space-around;
-padding-left:15%;
-padding-right:15%;
-margin-top: 70px;
+h2{
+color:#000;
 }
-.article-wide-text{
-line-height: 1.5;
-font-family: "Commissioner", sans-serif;
-font-size: 16px;
+.bg-box{
+background-image: url('/images/bg1.jpg');
+background-repeat: no-repeat;
+height: 601px;
 }
-.article-img-small{
-padding-right: 10px;
+.pros{
+padding-top:125px;
+padding-right:350px;
 }
 
-.certs{
-    text-align:center;
+.pros2{
+padding-top:125px;
+padding-left:350px;
 }
 
-.footer{
+.info li{
+list-style-type: none;
+list-style-image: url('/images/yes.png');
+color:#fff;
+font-family: "Russo One", sans-serif;
+  font-style: normal;
+  font-size:28px;
+ line-height:55px;
+}
+
+.sub-info{
+font-family: Arial;
+letter-spacing:7px;
+font-size:15px;
+color:#fff;
+}
+
+.question-box{
+box-shadow: 10px 10px 40px 20px #0000001A;
+
+background-color:#fff;
+margin-top:-150px;
+margin-left:190px;
+width:450px;
+height:180px;
+text-align:center;
+}
+
+.question-box2{
+box-shadow: 10px 10px 40px 20px #0000001A;
+
+background-color:#fff;
+margin-top:-150px;
+margin-left:640px;
+width:450px;
+height:180px;
+text-align:center;
+}
+
+.question{
+padding-top:1px;
+margin-bottom:0px;
+padding-bottom:0px;
+}
+.question-text{
+line-height:30px;
+text-align:justify;
+margin-top:0px;
+padding: 0px 25px;
+}
+
+.bg-box2{
+background-image: url('/images/bg2.jpg');
+background-repeat: no-repeat;
+height: 601px;
+}
+
+.info2 li{
+list-style-type: none;
+list-style-image: url('/images/question_mark.png');
+color:#fff;
+font-family: "Russo One", sans-serif;
+  font-style: normal;
+  font-size:28px;
+ line-height:55px;
+}
+
+.bg-box3{
+background-image: url('/images/bg3.jpg');
+background-repeat: no-repeat;
+height: 601px;
+}
+
+.info3 li{
+list-style-type: none;
+list-style-image: url('/images/stress_mark.png');
+color:#fff;
+font-family: "Russo One", sans-serif;
+  font-style: normal;
+  font-size:28px;
+ line-height:55px;
+}
+.box1{
+text-align:center;
+
+}
+
+.bg-shop{
+padding-top:20px;
+background-image: url(/images/bg-item.png);
+background-repeat: no-repeat;
+height:600px;
+}
+.bg-item-name{
+text-align:center;
+margin-bottom:20px;
+}
+.bg-item-name h2{
+color:#fff;
+}
+
+.bg-hijama{
+background-color:#2E8B57;
+height:530px;
+padding-top:70px;
+}
+.hijama-box{
 display:flex;
 justify-content:space-around;
 }
 
-.more-info{
- font-family: "Shantell Sans", cursive;
- font-size:15px;
- color: #cd5c5c;
+.cert-desc{
+padding: 0px 40px;
+color:#fff;
+font-size:24px;
 }
-.contact2{
-font-family: "Balsamiq Sans", sans-serif;
-font-weight:300;
-font-size: 20px;
-color: #cd5c5c;
+.bg-certs{
+background-color:#FF8C00;
+height:593px;
+padding-top:7px
 }
-.end-img{
-padding-left:10px;
-}
-.year-info{
-font-size:12px;
-}
-.tech{
-width:80%;
-}
-.tech-img{
-
+.certs-box{
+display:flex;
+justify-content:space-around;
 }
