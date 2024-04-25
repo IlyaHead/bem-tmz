@@ -49,7 +49,7 @@ h2{
 color:#000;
 }
 .bg-box{
-background-image: url('/images/bg1.jpg');
+background-image: url('../images/bg1.jpg');
 background-repeat: no-repeat;
 height: 601px;
 }
@@ -65,7 +65,7 @@ padding-left:350px;
 
 .info li{
 list-style-type: none;
-list-style-image: url('/images/yes.png');
+list-style-image: url('../images/yes.png');
 color:#fff;
 font-family: "Russo One", sans-serif;
   font-style: normal;
@@ -115,14 +115,14 @@ padding: 0px 25px;
 }
 
 .bg-box2{
-background-image: url('/images/bg2.jpg');
+background-image: url('../images/bg2.jpg');
 background-repeat: no-repeat;
 height: 601px;
 }
 
 .info2 li{
 list-style-type: none;
-list-style-image: url('/images/question_mark.png');
+list-style-image: url('../images/question_mark.png');
 color:#fff;
 font-family: "Russo One", sans-serif;
   font-style: normal;
@@ -131,14 +131,14 @@ font-family: "Russo One", sans-serif;
 }
 
 .bg-box3{
-background-image: url('/images/bg3.jpg');
+background-image: url('../images/bg3.jpg');
 background-repeat: no-repeat;
 height: 601px;
 }
 
 .info3 li{
 list-style-type: none;
-list-style-image: url('/images/stress_mark.png');
+list-style-image: url('../images/stress_mark.png');
 color:#fff;
 font-family: "Russo One", sans-serif;
   font-style: normal;
@@ -152,7 +152,7 @@ text-align:center;
 
 .bg-shop{
 padding-top:20px;
-background-image: url(/images/bg-item.png);
+background-image: url(../images/bg-item.png);
 background-repeat: no-repeat;
 height:600px;
 }
