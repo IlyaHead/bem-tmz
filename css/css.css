@@ -51,6 +51,7 @@ color:#000;
 .bg-box{
 background-image: url("../../images/bg1.jpg");
 background-repeat: no-repeat;
+width: 1440px;
 height: 601px;
 }
 .pros{
@@ -117,6 +118,7 @@ padding: 0px 25px;
 .bg-box2{
 background-image: url("../../images/bg2.jpg");
 background-repeat: no-repeat;
+width: 1440px;
 height: 601px;
 }
 
@@ -133,6 +135,7 @@ font-family: "Russo One", sans-serif;
 .bg-box3{
 background-image: url("../../images/bg3.jpg");
 background-repeat: no-repeat;
+width: 1440px;
 height: 601px;
 }
 
